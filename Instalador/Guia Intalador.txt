@@ -1,0 +1,8 @@
+Guia de Instalacion
+1-Abrir Carteta descargada llamada (Instalador).
+2-Darle doble click al Exe Instalador y solo se instalara el programa (Solo debe dar aceptar).
+3.Eso es todo.
+4.La instalacion por defecto estara ubicada en la siguiente ruta:
+C:\Users\Usuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MaSistema\Ma
+
+
